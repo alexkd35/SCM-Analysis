@@ -65,11 +65,11 @@ cosmetics,SKU62,72.79635395558736,89,270,3899.746833729224,Unknown,86,2,40,7,Car
 skincare,SKU63,13.017376785287857,55,246,4256.949140850225,Non-binary,54,19,10,4,Carrier A,2.45793352798733,Supplier 3,Bangalore,18,736,10,20.075003975630484,Pending,3.6328432903821337,Sea,Route A,687.2861778664173
 skincare,SKU64,89.63409560813533,11,134,8458.730878367178,Female,73,27,75,6,Carrier C,4.585353468194652,Supplier 1,Delhi,17,328,6,8.693042425877287,Fail,0.1594863147175146,Air,Route C,771.2250846811575
 skincare,SKU65,33.69771720664313,72,457,8354.579686481995,Male,57,24,54,8,Carrier C,6.580541347884595,Supplier 5,Kolkata,16,358,21,1.5972227430506774,Fail,4.911095954842331,Rail,Route C,555.8591036717435
-skincare,SKU66,26.03486977396209,52,704,8367.721618020154,Female,13,17,19,8,Carrier A,2.2161427287713638,Supplier 5,Kolkata,24,867,28,42.08443673830996,Fail,3.4480632883402618,Road,Route A,393.8433485784279
+skincare,SKU66,26.03486977396209,52,704,8367.721618020154,Female,13,17,19,8,Carrier A,2.216142728771364,Supplier 5,Kolkata,24,867,28,42.08443673830996,Fail,3.4480632883402618,Road,Route A,393.8433485784279
 skincare,SKU67,87.75543235400107,16,513,9473.798032508335,Unknown,12,9,71,9,Carrier C,9.147811544710631,Supplier 1,Mumbai,10,198,11,7.057876146978231,Pass,0.1319554443118148,Sea,Route C,169.2718013847869
 haircare,SKU68,37.93181238279032,29,163,3550.218432780992,Non-binary,0,8,58,8,Carrier B,1.1942518648849991,Supplier 2,Bangalore,2,375,18,97.1135815634622,Fail,1.98346787217418,Rail,Route A,299.7063031181032
 skincare,SKU69,54.86552851706979,62,511,1752.3810874841247,Non-binary,95,1,27,3,Carrier B,9.705286790120349,Supplier 4,Kolkata,9,862,7,77.62776581274817,Pending,1.3623879886491086,Air,Route A,207.6632062085756
-haircare,SKU70,47.914541824058766,90,32,7014.887987203389,Female,10,12,22,4,Carrier B,,Supplier 1,Bangalore,22,775,16,11.440781823761265,Pass,1.8305755986122316,Road,Route C,183.272898748711
+haircare,SKU70,47.914541824058766,90,32,7014.887987203389,Female,10,12,22,4,Carrier B,,Supplier 1,Bangalore,22,775,16,11.440781823761265,Pass,1.830575598612232,Road,Route C,183.272898748711
 cosmetics,SKU71,6.381533162747966,14,637,8180.337085425443,Female,76,2,26,6,Carrier A,9.228190317052515,Supplier 2,Bangalore,2,258,10,30.66167747785956,Pending,2.078750607874969,Road,Route A,405.1670678888559
 cosmetics,SKU72,90.20442752052809,88,478,2633.121981312256,Non-binary,57,29,77,9,Carrier A,6.599614159689544,Supplier 1,Bangalore,21,152,11,55.76049289524421,Pending,3.213329607438309,Rail,Route B,677.9445698461833
 cosmetics,SKU73,83.8510176813046,41,375,7910.886916140686,Male,17,25,66,5,Carrier B,1.5129368369160772,Supplier 4,Chennai,13,444,4,46.87023879761716,Fail,4.620546064513706,Road,Route A,866.4728001296578
@@ -95,8 +95,308 @@ cosmetics,SKU92,47.71423307582023,44,276,2100.1297546259366,Male,90,25,10,8,Carr
 haircare,SKU93,69.29083100290549,88,114,4531.4021336919095,Unknown,63,17,66,1,Carrier C,7.0064320590043945,Supplier 4,Chennai,21,824,20,35.63365234334388,Fail,4.165781795424145,Air,Route A,823.5238458881558
 cosmetics,SKU94,3.037688724631414,97,987,7888.356546661873,Unknown,77,26,72,9,Carrier B,6.942945942032581,Supplier 2,Delhi,12,908,14,60.38737861486212,Pass,1.4636074984727798,Rail,Route B,846.6652569866948
 haircare,SKU95,77.90392721944775,65,672,7386.363944048664,Unknown,15,14,26,9,Carrier B,8.630338869602754,Supplier 4,Mumbai,18,450,26,58.89068576858998,Pending,1.2108821295850665,Air,Route A,778.8642413766479
-cosmetics,SKU96,24.42313142037338,29,324,7698.424765632117,Non-binary,67,2,32,3,Carrier C,5.352878043996809,Supplier 3,Mumbai,28,648,28,17.80375633139127,Pending,3.872047681482133,Road,Route A,188.74214114905695
+cosmetics,SKU96,24.42313142037338,29,324,7698.424765632117,Non-binary,67,2,32,3,Carrier C,5.352878043996809,Supplier 3,Mumbai,28,648,28,17.80375633139127,Pending,3.872047681482133,Road,Route A,188.74214114905692
 haircare,SKU97,3.526111259143416,56,62,4370.916579984536,Male,46,19,4,9,Carrier A,7.904845611209675,Supplier 4,Mumbai,10,535,13,65.76515592636746,Fail,3.376237834717981,Road,Route A,540.1324228679678
 skincare,SKU98,19.7546048668786,43,913,8525.952559683526,Female,53,1,27,7,Carrier B,1.409801095138073,Supplier 5,Chennai,28,581,9,5.604690864371781,Pending,2.908122169351261,Rail,Route A,882.1988635470415
-haircare,SKU99,68.51783269927664,17,627,9185.185829181704,Unknown,55,8,59,6,Carrier B,1.3110237561206226,Supplier 2,Chennai,29,921,2,38.07289852062604,Fail,0.3460272907055034,Rail,Route B,210.74300896424612
+haircare,SKU99,68.51783269927664,17,627,9185.185829181704,Unknown,55,8,59,6,Carrier B,1.3110237561206226,Supplier 2,Chennai,29,921,2,38.07289852062604,Fail,0.3460272907055034,Rail,Route B,210.7430089642461
 haircare,SKU0,69.80800554211577,55,802,8661.996792392383,,58,7,96,4,Carrier B,2.956572139430807,Supplier 3,Mumbai,29,215,29,46.27987924050832,Pending,0.2264103608499251,Road,Route B,187.75207545920392
+Clothing,iVg-10433,15.58,95,291,4533.78,Adults,28,5,95,2,DHL,6.72,Supplier A,Berlin,3,323,8,53.01,Pass,2.81,Express,Route B,298.4
+Electronics,bfn-81960,77.09,21,724,55813.16,Unknown,43,9,20,4,UPS,2.82,Supplier D,Berlin,12,967,12,62.35,Pass,3.65,Express,Route A,975.8
+Clothing,mTP-38908,63.76,47,601,38319.76,Adults,90,3,6,4,UPS,9.88,Supplier B,Berlin,13,384,15,65.39,Fail,0.82,Road,Route A,703.16
+Electronics,rZa-86379,62.87,22,556,34955.72,Adults,20,15,49,5,FedEx,7.48,Supplier A,Hamburg,27,132,26,34.97,Fail,0.34,Express,Route C,383.21
+Clothing,nWv-26542,48.59,34,152,7385.68,Adults,95,18,69,5,TNT,9.18,Supplier D,Munich,8,241,17,51.88,Pass,4.31,Sea,Route C,243.98
+Furniture,wMq-11615,41.25,60,551,22728.75,Seniors,70,28,2,2,UPS,8.15,Supplier C,Berlin,10,545,6,48.1,Pending,4.38,Road,Route C,785.77
+Clothing,fJs-07816,33.35,82,529,17642.15,Adults,19,12,98,3,DHL,6.79,Supplier D,Berlin,4,471,29,98.61,Fail,1.2,Sea,Route C,952.25
+Electronics,cQo-95931,97.91,69,794,77740.54,Adults,16,22,61,9,FedEx,4.12,Supplier E,Cologne,7,652,25,74.34,Pass,3.57,Rail,Route C,684.89
+Electronics,rDO-41316,28.55,9,356,10163.8,Young Adults,75,18,30,10,FedEx,2.06,Supplier A,Hamburg,3,132,28,36.39,Pending,1.2,Rail,Route A,585.31
+Clothing,QrS-52553,49.9,61,836,41716.4,Unknown,24,4,13,7,UPS,5.39,Supplier D,Berlin,22,769,21,14.35,Fail,3.64,Air,Route A,272.43
+Electronics,kDy-19283,31.46,32,905,28471.3,,56,26,71,2,DHL,7.22,Supplier E,Berlin,3,871,28,27.46,Fail,2.43,Sea,Route B,912.2
+Furniture,ocZ-48350,30.19,59,302,9117.38,Unknown,89,24,72,8,FedEx,3.52,Supplier B,Berlin,19,853,18,10.79,Fail,0.3,Express,Route B,552.57
+Clothing,KTu-56413,12.61,24,80,1008.8,Young Adults,86,28,31,7,DHL,9.53,Supplier E,Hamburg,19,708,2,63.84,Fail,3.29,Express,Route C,384.73
+Furniture,qip-37672,27.68,51,144,3985.92,Seniors,58,11,97,2,DHL,5.67,Supplier E,Berlin,3,650,7,53.06,Pass,4.67,Air,Route A,432.57
+Clothing,Lzx-88496,33.74,84,551,18590.74,Young Adults,85,27,71,5,DHL,9.51,Supplier B,Munich,4,209,24,57.56,Fail,1.42,Sea,Route C,408.59
+Clothing,Wdh-32871,51.41,7,104,5346.64,Unknown,35,2,1,6,FedEx,7.1,Supplier C,Hamburg,24,552,18,72.04,Pending,0.06,Air,Route C,913.54
+Clothing,yyM-22691,57.49,56,140,8048.6,Young Adults,39,12,6,6,FedEx,7.46,Supplier A,Munich,25,673,29,88.1,Pending,3.75,Sea,Route A,978.59
+Electronics,RUh-78480,22.04,43,811,17874.44,Unknown,85,28,95,4,UPS,3.27,Supplier A,Cologne,28,139,28,49.72,Pass,4.08,Rail,Route B,374.67
+Electronics,BkD-84514,67.7,52,346,23424.2,Seniors,8,25,36,6,TNT,7.44,Supplier E,Munich,1,218,29,97.19,Pass,2.91,Road,Route A,197.56
+Furniture,gOt-04828,46.46,66,128,5946.88,Unknown,73,7,33,1,TNT,2.01,Supplier E,Hamburg,12,541,3,95.14,Fail,3.12,Air,Route C,910.04
+Furniture,WkI-89325,43.23,38,577,24943.71,Adults,24,14,86,7,FedEx,6.92,Supplier C,Cologne,18,953,1,33.87,Pass,2.16,Express,Route C,689.24
+Electronics,bhx-80957,53.56,95,183,9801.48,Young Adults,36,17,85,10,UPS,2.75,Supplier B,Munich,8,925,7,19.0,Pass,1.23,Rail,Route C,864.76
+Clothing,ffU-43039,59.69,92,723,43155.87,Unknown,63,13,32,3,DHL,9.14,Supplier A,Cologne,8,280,26,96.01,Pending,2.33,Express,Route A,925.72
+Furniture,QEJ-71822,68.42,72,619,42351.98,Seniors,96,29,57,10,TNT,8.64,Supplier E,Cologne,29,262,24,86.84,Fail,1.3,Sea,Route C,349.58
+Electronics,nIW-24896,31.09,10,740,23006.6,Seniors,30,9,43,6,DHL,3.11,Supplier B,Cologne,23,256,23,25.33,Fail,2.04,Express,Route B,474.2
+Clothing,HCh-34657,94.88,3,887,84158.56,Unknown,61,1,46,5,TNT,8.83,Supplier D,Frankfurt,24,852,18,80.99,Pass,2.45,Road,Route B,537.08
+Furniture,LJo-33150,73.8,60,951,70183.8,Adults,79,18,4,7,DHL,2.67,Supplier D,Hamburg,28,572,6,9.78,Fail,1.64,Rail,Route B,403.75
+Furniture,oec-93010,28.97,11,491,14224.27,Young Adults,95,18,7,6,FedEx,7.2,Supplier A,Berlin,8,304,27,6.94,Pass,1.2,Rail,Route C,202.95
+Furniture,QFn-51834,77.86,22,630,49051.8,Young Adults,99,27,21,5,DHL,6.63,Supplier C,Frankfurt,22,484,13,94.44,Pass,0.39,Sea,Route A,727.47
+Electronics,pYE-82997,80.64,73,811,65399.04,Young Adults,44,18,55,6,DHL,6.05,Supplier C,Berlin,28,530,27,51.57,Fail,4.8,Rail,Route C,237.69
+Clothing,wBA-63116,30.66,69,803,24619.98,Unknown,59,14,94,10,UPS,4.58,Supplier B,Berlin,9,561,8,76.3,Pending,3.06,Rail,Route B,125.83
+Electronics,UvZ-70106,38.71,34,358,13858.18,Seniors,76,23,36,9,DHL,6.13,Supplier B,Berlin,8,837,14,51.41,Pass,3.46,Rail,Route B,813.64
+Clothing,CiB-13338,28.11,85,605,17006.55,Seniors,60,18,68,6,TNT,9.97,Supplier E,Munich,12,819,15,30.74,Fail,1.16,Sea,Route B,207.6
+Electronics,CZJ-24731,23.2,95,505,11716.0,Seniors,92,19,98,9,UPS,9.84,Supplier B,Munich,8,469,6,33.72,Pending,2.68,Road,Route A,976.87
+Electronics,Wpk-10801,65.6,97,512,33587.2,Young Adults,1,19,37,8,TNT,5.52,Supplier B,Berlin,9,982,16,15.84,Pass,2.01,Air,Route C,666.5
+Clothing,dky-67736,95.17,11,264,25124.88,Young Adults,71,25,54,10,FedEx,8.21,Supplier D,Cologne,30,553,10,86.72,Fail,1.53,Express,Route A,648.67
+Electronics,BSU-06474,64.42,34,686,44192.12,Young Adults,20,8,23,9,DHL,3.25,Supplier D,Cologne,23,708,16,32.67,Pass,1.45,Road,Route C,873.65
+Furniture,ndL-87234,79.84,81,613,48941.92,Adults,54,4,70,4,FedEx,9.27,Supplier B,Berlin,2,269,26,34.22,Pending,4.12,Road,Route B,211.92
+Furniture,LEG-80500,52.54,64,458,24063.32,Young Adults,76,2,56,6,UPS,2.21,Supplier B,Frankfurt,19,121,25,68.87,Fail,2.89,Sea,Route B,567.07
+Clothing,leM-82081,46.41,63,103,4780.23,Unknown,44,14,43,6,DHL,8.86,Supplier C,Cologne,23,607,10,67.95,Fail,4.07,Express,Route A,509.34
+Furniture,pLM-13619,87.17,1,683,59537.11,Unknown,52,2,25,9,UPS,,Supplier D,Cologne,25,152,7,30.37,Pass,4.64,Rail,Route C,536.24
+Electronics,KHu-09169,72.43,40,574,41574.82,Young Adults,70,14,12,4,DHL,5.69,Supplier A,Hamburg,16,833,10,53.34,Fail,2.08,Rail,Route B,319.36
+Clothing,ziQ-43534,53.28,18,894,47632.32,Young Adults,35,25,54,6,UPS,8.56,Supplier C,Munich,27,701,19,99.9,Fail,4.33,Rail,Route C,535.91
+Furniture,DNK-47510,48.26,42,900,43434.0,Adults,89,8,74,7,FedEx,8.85,Supplier D,Berlin,11,862,16,72.0,Fail,1.94,Sea,Route B,968.34
+Furniture,qiw-11838,87.62,57,112,9813.44,Unknown,1,24,19,7,FedEx,2.6,Supplier C,Munich,20,809,13,66.73,Fail,4.26,Express,Route B,958.73
+Furniture,CIT-13542,87.88,5,642,56418.96,Young Adults,30,21,88,5,FedEx,7.97,Supplier D,Berlin,25,748,23,87.9,Fail,0.84,Road,Route A,141.39
+Furniture,tQg-49808,45.92,32,553,25393.76,Unknown,72,22,24,3,FedEx,,Supplier D,Frankfurt,22,346,16,91.72,Pass,1.17,Road,Route B,329.79
+Furniture,jrs-24118,69.37,21,85,5896.45,Unknown,44,19,39,7,UPS,5.65,Supplier C,Hamburg,13,973,16,15.13,Fail,2.86,Express,Route B,993.42
+Clothing,GFq-93534,42.6,2,589,25091.4,,77,24,64,5,FedEx,6.86,Supplier C,Hamburg,21,294,20,28.81,Pending,3.84,Sea,Route C,187.45
+Furniture,avX-01640,8.17,47,759,6201.03,Adults,11,30,38,6,TNT,3.41,Supplier B,Frankfurt,29,474,17,52.67,Fail,4.15,Road,Route B,970.65
+Electronics,TBJ-24278,49.49,10,154,7621.46,Adults,86,24,87,7,UPS,2.72,Supplier D,Berlin,9,649,4,48.2,Pending,3.75,Road,Route C,442.92
+Clothing,cxL-01128,27.21,4,644,17523.24,Seniors,78,8,83,2,TNT,9.28,Supplier C,Cologne,4,243,2,94.89,Fail,4.98,Air,Route A,311.32
+Furniture,txY-82620,68.7,96,723,49670.1,Unknown,75,24,94,3,TNT,7.24,Supplier D,Frankfurt,14,386,2,70.58,Pass,2.22,Sea,Route B,189.42
+Clothing,wXJ-05331,39.07,51,292,11408.44,Adults,15,28,59,2,FedEx,7.13,Supplier E,Berlin,2,905,11,28.14,Pass,3.94,Sea,Route A,846.84
+Electronics,ZZl-69232,36.21,19,817,29583.57,Young Adults,35,28,19,3,UPS,8.39,Supplier A,Berlin,5,115,12,80.05,Pass,2.95,Air,Route A,338.83
+Electronics,ZQV-60256,75.84,61,469,35568.96,Seniors,65,19,14,8,FedEx,9.56,Supplier A,Frankfurt,10,569,21,96.58,Pass,4.99,Rail,Route B,717.49
+Electronics,cEo-34216,90.43,42,632,57151.76,Adults,8,5,36,10,UPS,5.05,Supplier E,Frankfurt,10,564,17,62.52,Pass,3.97,Air,Route C,685.82
+Electronics,obQ-37543,45.86,30,433,19857.38,Seniors,58,13,54,2,UPS,5.41,Supplier C,Munich,5,803,30,50.06,Pass,4.16,Air,Route B,186.91
+Clothing,Xrw-36541,10.7,72,585,6259.5,Seniors,85,4,53,6,TNT,8.94,Supplier A,Munich,20,419,12,14.84,Pending,1.07,Rail,Route A,862.55
+Electronics,hql-86850,77.45,74,241,18665.45,Unknown,71,25,80,10,DHL,6.87,Supplier C,Berlin,6,379,23,77.43,Fail,1.76,Sea,Route A,609.69
+Clothing,BwU-94019,97.32,12,774,75325.68,Adults,48,14,59,6,FedEx,4.96,Supplier C,Frankfurt,20,186,29,10.0,Pass,3.77,Air,Route C,173.42
+Clothing,yKm-56981,46.99,35,230,10807.7,Young Adults,44,14,15,5,TNT,6.22,Supplier C,Berlin,8,504,20,10.2,Pass,1.51,Sea,Route A,787.74
+Furniture,ZIR-40608,75.97,23,142,10787.74,Unknown,68,23,30,9,UPS,2.58,Supplier A,Cologne,1,570,30,12.4,Fail,2.88,Express,Route B,738.55
+Electronics,NuQ-35615,96.79,22,830,80335.7,Unknown,88,30,47,2,TNT,8.76,Supplier B,Cologne,19,510,17,12.47,Fail,3.73,Sea,Route B,801.21
+Clothing,uzS-14846,53.45,100,367,19616.15,Seniors,93,27,83,3,FedEx,2.82,Supplier C,Hamburg,6,716,5,77.22,Pending,0.39,Rail,Route B,779.0
+Clothing,QyR-48236,66.08,80,340,22467.2,Seniors,19,15,9,8,TNT,7.05,Supplier C,Frankfurt,2,460,17,12.05,Fail,2.27,Air,Route B,848.53
+Electronics,Jat-29946,63.43,65,403,25562.29,,74,18,95,1,TNT,9.27,Supplier E,Hamburg,11,719,16,52.63,Pass,2.26,Road,Route C,175.9
+Clothing,PuD-43699,46.59,57,546,25438.14,Adults,46,12,37,7,TNT,8.2,Supplier E,Berlin,26,746,21,36.79,Fail,0.48,Rail,Route B,326.8
+Clothing,YYV-77387,87.96,43,93,8180.28,Adults,44,10,84,7,FedEx,6.76,Supplier A,Munich,18,485,21,80.21,Pass,3.35,Express,Route A,681.42
+Furniture,vfW-21489,34.34,28,359,12328.06,Unknown,24,8,18,3,DHL,4.37,Supplier A,Frankfurt,25,652,27,75.17,Pending,0.2,Road,Route C,217.94
+Clothing,bcp-34332,78.25,22,748,58531.0,Unknown,5,14,47,4,TNT,6.88,Supplier D,Hamburg,18,344,10,96.73,Fail,4.52,Sea,Route B,710.48
+Furniture,OKm-79176,78.92,65,550,43406.0,Unknown,20,27,26,10,FedEx,8.98,Supplier A,Cologne,28,480,18,93.76,Pending,4.23,Air,Route B,175.49
+Clothing,PSa-67632,19.0,56,103,1957.0,Adults,57,29,45,1,TNT,2.43,Supplier E,Munich,8,495,3,40.62,Pass,1.6,Air,Route C,684.96
+Furniture,DdJ-16328,92.15,61,722,66532.3,Adults,97,23,61,8,DHL,9.25,Supplier A,Munich,7,955,5,57.14,Pending,3.05,Rail,Route A,798.56
+Electronics,QHJ-31727,44.88,80,478,21452.64,Young Adults,14,27,64,10,DHL,7.06,Supplier E,Hamburg,23,247,10,45.78,Pending,1.77,Express,Route B,268.58
+Furniture,BJC-95798,11.43,68,567,6480.81,,49,28,61,1,TNT,9.85,Supplier C,Berlin,12,907,3,37.76,Pending,3.29,Air,Route C,761.67
+Clothing,OrX-27743,37.16,83,189,7023.24,Unknown,89,16,81,3,FedEx,2.5,Supplier D,Berlin,10,306,2,80.16,Pass,1.58,Road,Route C,458.4
+Electronics,eTs-87347,76.56,25,302,23121.12,Seniors,99,2,84,6,UPS,3.0,Supplier C,Cologne,29,509,24,46.77,Fail,1.7,Sea,Route B,722.86
+Furniture,fij-34558,81.11,94,444,36012.84,Young Adults,55,20,24,9,UPS,4.57,Supplier A,Munich,22,402,10,47.36,Pending,2.14,Rail,Route B,502.42
+Clothing,AAv-36231,99.82,36,664,66280.48,Young Adults,9,22,82,7,UPS,6.1,Supplier B,Berlin,5,969,20,69.42,Fail,0.18,Air,Route A,800.66
+Clothing,AyX-87603,8.08,20,705,5696.4,Unknown,47,12,57,2,FedEx,6.24,Supplier D,Munich,21,385,8,96.25,Pass,3.68,Rail,Route C,448.29
+Furniture,awt-90967,71.88,28,636,45715.68,Seniors,88,30,63,4,DHL,3.09,Supplier A,Cologne,6,830,15,99.74,Pending,4.84,Road,Route C,412.68
+Furniture,oFo-66889,85.88,92,736,63207.68,Adults,46,17,29,2,FedEx,8.34,Supplier B,Cologne,1,469,18,59.37,Fail,4.02,Express,Route A,650.75
+Clothing,vQR-46706,73.29,68,430,31514.7,Unknown,73,3,17,6,DHL,5.6,Supplier E,Munich,5,999,27,79.12,Pending,2.94,Sea,Route B,552.58
+Clothing,Ibz-62729,19.54,22,175,3419.5,Seniors,90,8,45,9,UPS,8.77,Supplier C,Hamburg,21,664,9,16.89,Fail,3.08,Air,Route C,676.89
+Electronics,iDl-99016,67.58,93,933,63052.14,Seniors,72,2,4,2,DHL,9.59,Supplier E,Munich,21,315,25,59.35,Pending,3.2,Rail,Route C,591.02
+Electronics,Duv-04653,81.45,88,425,34616.25,Seniors,58,3,89,1,FedEx,5.52,Supplier D,Cologne,7,448,20,18.65,Pending,1.6,Road,Route B,217.69
+Furniture,EbV-64641,27.97,16,283,7915.51,Unknown,31,5,13,1,UPS,9.56,Supplier E,Cologne,8,986,29,20.17,Fail,4.67,Road,Route A,786.81
+Furniture,XPc-80531,88.51,64,33,2920.83,Young Adults,50,17,59,4,FedEx,6.67,Supplier A,Berlin,10,606,20,88.82,Pending,3.37,Road,Route C,107.36
+Furniture,jpi-03309,74.11,98,422,31274.42,Seniors,5,13,7,10,FedEx,4.9,Supplier C,Berlin,13,616,15,77.62,Fail,4.13,Express,Route C,649.94
+Furniture,SqX-71937,80.52,44,581,46782.12,Seniors,96,5,26,10,TNT,6.0,Supplier A,Berlin,5,830,11,81.38,Pending,2.29,Express,Route C,225.8
+Furniture,Xkt-52991,99.11,95,872,86423.92,Seniors,75,11,65,9,TNT,7.67,Supplier C,Cologne,27,117,12,36.47,Pass,4.9,Express,Route B,817.08
+Electronics,Ryz-19049,61.71,34,1000,61710.0,Adults,92,2,75,8,FedEx,6.19,Supplier E,Cologne,5,941,22,28.01,Pending,4.74,Air,Route A,117.04
+Clothing,SXt-31931,24.37,65,803,19569.11,Unknown,94,24,8,3,FedEx,6.49,Supplier D,Frankfurt,13,421,6,48.67,Pending,1.72,Road,Route C,794.79
+Clothing,IBQ-91905,30.11,62,206,6202.66,Adults,35,18,39,4,UPS,8.17,Supplier B,Cologne,11,591,12,58.25,Pending,1.37,Air,Route C,708.96
+Furniture,AFg-51850,95.69,19,307,29376.83,Young Adults,36,23,11,6,TNT,7.25,Supplier D,Hamburg,7,947,18,30.76,Pending,3.48,Sea,Route A,654.11
+Clothing,lUH-65726,90.99,29,663,60326.37,Adults,6,4,53,6,TNT,2.8,Supplier B,Berlin,18,261,14,67.02,Fail,2.39,Sea,Route B,389.05
+Electronics,BUL-49877,66.97,30,557,37302.29,Young Adults,22,14,23,1,TNT,8.3,Supplier B,Munich,29,138,1,33.35,Pending,0.55,Road,Route B,508.91
+Electronics,CpW-45314,85.85,60,289,24810.65,Adults,14,11,21,8,UPS,7.75,Supplier A,Munich,26,402,19,69.07,Pass,0.89,Rail,Route B,563.75
+Electronics,bFu-79965,98.26,62,341,33506.66,Adults,0,9,50,4,TNT,8.03,Supplier C,Munich,19,840,19,6.09,Pending,1.8,Sea,Route A,701.01
+Clothing,vrM-27354,52.74,91,798,42086.52,Seniors,88,4,82,5,UPS,6.92,Supplier B,Hamburg,16,256,15,76.03,Pending,1.87,Express,Route B,781.62
+Electronics,fpU-48083,69.63,77,904,62945.52,Young Adults,67,15,68,6,DHL,9.34,Supplier A,Berlin,27,660,29,53.02,Pending,2.69,Sea,Route B,869.04
+Clothing,PTF-67837,60.4,12,930,56172.0,Unknown,7,15,17,9,TNT,5.65,Supplier A,Frankfurt,15,788,26,34.28,Pass,1.99,Air,Route C,296.11
+Clothing,zSp-70143,11.06,8,967,10695.02,Young Adults,60,2,37,7,FedEx,8.15,Supplier D,Munich,29,491,15,87.61,Fail,1.88,Express,Route A,688.18
+Clothing,HwB-49578,42.34,17,755,31966.7,Adults,0,25,3,5,TNT,7.39,Supplier E,Cologne,18,488,27,26.82,Fail,1.74,Road,Route A,943.67
+Clothing,tqo-85574,44.83,99,968,43395.44,Young Adults,30,7,9,2,DHL,5.57,Supplier A,Hamburg,24,145,13,46.7,Pending,1.09,Air,Route A,553.51
+Clothing,WSl-13518,59.73,74,622,37152.06,Seniors,30,10,19,9,FedEx,5.31,Supplier C,Berlin,18,705,29,74.85,Pass,3.13,Rail,Route C,546.06
+Clothing,WHM-33749,41.21,68,336,13846.56,Unknown,52,5,39,7,FedEx,8.04,Supplier D,Hamburg,28,330,10,86.47,Pass,4.03,Air,Route C,471.41
+Furniture,xlt-41343,28.07,27,348,9768.36,Young Adults,57,28,48,2,FedEx,2.41,Supplier D,Frankfurt,20,140,28,11.91,Pending,3.62,Express,Route A,531.45
+Electronics,dJs-08240,25.12,25,995,24994.4,Young Adults,95,25,62,4,FedEx,5.17,Supplier B,Frankfurt,11,894,10,41.16,Pending,3.25,Road,Route B,423.68
+Clothing,sEE-27109,49.6,41,946,46921.6,Adults,47,11,53,1,FedEx,7.93,Supplier A,Munich,18,698,19,73.4,Fail,0.77,Road,Route A,441.86
+Clothing,Ehe-75204,94.63,44,273,25833.99,Unknown,92,21,95,8,TNT,3.35,Supplier C,Hamburg,5,837,18,51.39,Pending,4.95,Air,Route C,130.44
+Clothing,jjZ-67190,9.61,1,432,4151.52,,80,8,9,3,DHL,3.75,Supplier D,Munich,2,732,21,68.34,Pending,4.56,Rail,Route A,105.95
+Clothing,JWA-94131,73.61,69,303,22303.83,Young Adults,64,27,90,7,FedEx,2.86,Supplier A,Frankfurt,5,346,7,63.88,Fail,4.08,Road,Route B,171.12
+Electronics,yCC-99938,99.07,29,317,31405.19,Young Adults,83,28,84,1,DHL,5.24,Supplier D,Frankfurt,16,157,21,5.9,Pass,0.42,Rail,Route C,805.94
+Electronics,NdN-49649,90.01,6,245,22052.45,Adults,88,29,73,8,UPS,2.37,Supplier A,Munich,29,656,19,67.52,Pass,4.64,Road,Route A,965.32
+Clothing,kpl-13341,82.99,10,316,26224.84,Adults,72,8,73,7,UPS,5.07,Supplier B,Berlin,17,863,12,10.1,Fail,1.17,Air,Route B,644.65
+Furniture,CSM-81206,7.81,35,812,6341.72,Unknown,62,8,46,9,TNT,5.45,Supplier E,Cologne,3,890,20,33.06,Pass,3.57,Air,Route B,238.8
+Clothing,TsS-74034,42.01,47,119,4999.19,Young Adults,0,10,57,6,UPS,2.82,Supplier A,Hamburg,14,559,18,57.7,Fail,0.53,Air,Route B,598.8
+Furniture,QZm-71349,6.17,53,407,2511.19,Young Adults,92,29,72,4,FedEx,7.48,Supplier B,Hamburg,9,408,9,51.85,Pass,0.84,Road,Route B,369.78
+Electronics,rje-61832,73.49,64,618,45416.82,Adults,58,4,18,5,DHL,9.59,Supplier C,Frankfurt,13,923,28,36.31,Fail,2.16,Express,Route A,370.39
+Furniture,sCh-02499,34.85,51,336,11709.6,Seniors,94,23,82,8,FedEx,,Supplier C,Cologne,12,216,30,58.57,Pending,4.99,Sea,Route C,790.86
+Clothing,IFC-74648,24.92,38,861,21456.12,Young Adults,52,22,64,3,UPS,3.94,Supplier B,Cologne,26,486,3,47.66,Pending,2.4,Rail,Route C,555.95
+Clothing,Mqb-19065,8.49,47,728,6180.72,Young Adults,13,25,32,6,FedEx,7.18,Supplier A,Frankfurt,21,793,21,42.96,Fail,4.83,Rail,Route A,109.49
+Clothing,WRr-13990,58.01,89,599,34747.99,Adults,57,12,51,8,FedEx,4.76,Supplier A,Cologne,4,402,14,92.45,Pass,0.59,Sea,Route B,380.7
+Furniture,PCr-90278,38.09,13,458,17445.22,Unknown,40,3,39,1,DHL,2.18,Supplier C,Berlin,22,919,6,93.34,Pending,1.23,Sea,Route C,244.12
+Electronics,EwA-29671,80.79,81,198,15996.42,Adults,81,22,56,7,DHL,7.9,Supplier B,Cologne,19,539,13,5.42,Pass,1.04,Air,Route C,191.58
+Furniture,ASF-55125,23.72,15,278,6594.16,Unknown,67,21,41,10,TNT,6.89,Supplier E,Berlin,12,460,28,48.5,Pass,4.07,Road,Route C,631.15
+Electronics,fuq-46807,34.01,24,392,13331.92,Adults,65,13,54,10,FedEx,6.6,Supplier D,Hamburg,16,750,18,70.88,Pending,4.65,Sea,Route C,250.18
+Furniture,QID-51680,63.84,46,984,62818.56,Young Adults,62,5,25,7,TNT,5.27,Supplier D,Cologne,23,960,15,51.43,Pass,2.83,Sea,Route B,129.43
+Furniture,NWF-60385,58.74,99,794,46639.56,Unknown,70,17,15,10,DHL,4.14,Supplier E,Munich,18,942,25,8.95,Pending,2.21,Sea,Route B,192.17
+Furniture,isC-70348,88.11,5,470,41411.7,Seniors,44,28,12,8,DHL,8.21,Supplier B,Hamburg,26,855,19,70.47,Pending,3.06,Rail,Route A,654.54
+Electronics,Tkt-71093,59.16,69,297,17570.52,Adults,41,23,38,5,UPS,9.62,Supplier E,Berlin,5,868,26,44.1,Pass,4.96,Sea,Route C,879.47
+Electronics,ohD-80861,77.34,87,412,31864.08,Unknown,18,19,81,5,TNT,5.0,Supplier A,Berlin,13,627,24,31.43,Fail,2.28,Rail,Route B,623.76
+Electronics,TrA-12748,74.44,59,660,49130.4,Seniors,8,26,69,7,FedEx,9.75,Supplier B,Cologne,9,430,27,31.94,Pending,2.89,Express,Route B,809.47
+Electronics,jym-77378,14.46,59,26,375.96,Young Adults,20,15,59,1,TNT,3.62,Supplier B,Munich,6,995,30,88.28,Pass,3.28,Road,Route A,434.66
+Furniture,XYA-98214,64.43,93,726,46776.18,Adults,54,21,12,2,DHL,3.71,Supplier A,Hamburg,19,331,17,69.6,Pass,0.05,Road,Route A,989.34
+Electronics,UtL-58404,26.75,12,758,20276.5,Young Adults,13,11,48,5,FedEx,5.06,Supplier B,Hamburg,3,643,19,5.81,Pending,0.83,Road,Route C,291.75
+Clothing,Ewv-97278,70.22,28,98,6881.56,Young Adults,17,25,16,10,TNT,4.81,Supplier D,Munich,26,243,8,31.31,Pass,1.25,Express,Route C,749.06
+Electronics,mSp-88675,85.55,85,906,77508.3,Seniors,26,17,78,9,FedEx,7.98,Supplier C,Berlin,26,912,8,52.01,Pass,1.21,Express,Route A,575.46
+Furniture,uVE-96360,17.54,73,440,7717.6,Seniors,69,22,23,8,DHL,2.13,Supplier A,Berlin,9,320,2,92.65,Fail,2.54,Express,Route B,481.22
+Clothing,iGL-66270,63.52,36,95,6034.4,,10,17,27,3,UPS,5.13,Supplier A,Munich,23,547,24,95.58,Pass,0.3,Air,Route B,204.39
+Clothing,DaU-51718,75.46,95,189,14261.94,,1,23,18,1,FedEx,5.97,Supplier C,Frankfurt,17,901,27,73.47,Pass,1.87,Road,Route C,897.77
+Furniture,Yqv-26217,30.84,9,279,8604.36,Young Adults,63,15,66,6,DHL,,Supplier E,Hamburg,12,261,9,78.47,Pending,3.37,Air,Route A,766.7
+Electronics,yuO-96158,28.23,61,382,10783.86,Unknown,19,6,5,9,TNT,3.8,Supplier B,Cologne,30,837,11,30.77,Pass,2.86,Air,Route C,705.99
+Clothing,pOR-78091,98.23,52,80,7858.4,Unknown,36,25,40,6,DHL,6.42,Supplier A,Munich,7,398,19,79.53,Pending,3.12,Rail,Route B,632.52
+Electronics,WOT-43161,74.58,70,788,58769.04,Adults,19,1,53,1,FedEx,6.33,Supplier A,Munich,1,877,22,40.75,Pending,3.64,Air,Route A,576.83
+Electronics,cuY-17240,97.39,19,738,71873.82,Seniors,11,2,30,9,TNT,7.61,Supplier C,Cologne,24,186,19,14.08,Pass,3.19,Rail,Route A,632.71
+Electronics,jpH-04556,27.49,34,881,24218.69,Seniors,50,23,95,6,UPS,5.62,Supplier B,Berlin,7,239,25,78.16,Pass,0.79,Sea,Route B,519.45
+Electronics,fNy-69222,47.93,60,281,13468.33,Young Adults,11,6,88,5,DHL,3.72,Supplier C,Hamburg,3,828,8,97.0,Fail,2.57,Road,Route B,838.08
+Furniture,oDO-93792,57.82,71,265,15322.3,Young Adults,59,4,18,2,DHL,2.49,Supplier B,Hamburg,7,943,13,40.36,Pending,4.69,Air,Route C,627.51
+Electronics,sRI-47407,23.79,83,464,11038.56,Adults,11,29,43,2,DHL,9.54,Supplier A,Hamburg,30,687,14,83.06,Fail,2.49,Rail,Route C,484.0
+Furniture,tOB-21759,31.59,20,45,1421.55,Adults,82,10,64,7,TNT,2.49,Supplier C,Cologne,5,529,7,66.05,Pending,1.25,Express,Route A,990.46
+Clothing,Egp-47436,79.24,45,944,74802.56,Seniors,49,9,24,1,UPS,6.78,Supplier A,Munich,2,928,16,55.3,Pending,5.0,Sea,Route A,323.07
+Clothing,Ssb-69594,10.31,29,599,6175.69,Unknown,45,30,23,3,FedEx,6.74,Supplier C,Frankfurt,1,820,23,38.41,Pending,2.82,Express,Route A,853.03
+Clothing,MVF-64090,34.36,63,48,1649.28,Young Adults,7,8,78,4,DHL,6.21,Supplier A,Munich,30,728,7,81.61,Fail,3.59,Road,Route A,119.72
+Electronics,OmN-43953,85.42,47,993,84822.06,Young Adults,47,23,85,7,DHL,4.69,Supplier C,Hamburg,6,849,14,80.23,Fail,3.25,Sea,Route C,971.87
+Furniture,YCc-42104,26.21,76,844,22121.24,Adults,48,10,94,5,FedEx,3.42,Supplier A,Frankfurt,13,971,25,96.69,Pass,0.92,Road,Route C,298.81
+Electronics,uVA-95214,36.46,10,253,9224.38,Seniors,40,6,82,2,UPS,5.57,Supplier C,Hamburg,8,809,3,38.3,Pass,3.6,Air,Route B,494.4
+Furniture,HGr-23285,51.84,49,369,19128.96,Unknown,12,27,62,10,FedEx,3.3,Supplier A,Berlin,10,120,11,29.81,Pass,0.38,Sea,Route B,244.81
+Electronics,ZhD-24745,37.11,79,924,34289.64,Unknown,90,1,56,3,TNT,3.26,Supplier A,Munich,7,294,14,71.23,Pending,4.63,Express,Route B,694.54
+Furniture,xfY-12368,59.32,63,167,9906.44,Young Adults,46,1,55,2,UPS,8.59,Supplier E,Cologne,7,199,1,24.66,Pending,1.47,Air,Route B,859.39
+Furniture,DxR-60481,90.01,34,103,9271.03,Unknown,23,12,49,6,FedEx,5.57,Supplier C,Cologne,15,369,8,84.52,Pending,0.32,Air,Route A,701.33
+Clothing,RoE-49651,26.61,8,870,23150.7,Unknown,66,14,69,8,FedEx,5.81,Supplier A,Cologne,29,974,23,8.3,Pending,4.5,Express,Route C,984.48
+Furniture,oPe-09859,21.42,22,226,4840.92,Adults,16,2,55,2,TNT,3.62,Supplier B,Frankfurt,9,427,30,74.07,Pass,0.44,Express,Route B,596.85
+Electronics,cct-74612,79.72,80,611,48708.92,Unknown,14,14,20,3,DHL,9.4,Supplier E,Berlin,26,392,28,55.89,Fail,4.39,Road,Route B,689.31
+Electronics,iyD-71138,31.16,19,643,20035.88,Unknown,4,13,43,4,DHL,7.97,Supplier C,Munich,1,445,27,80.4,Fail,1.41,Rail,Route C,716.37
+Furniture,APg-58692,97.55,57,802,78235.1,Seniors,34,24,54,10,DHL,3.5,Supplier B,Cologne,24,596,25,54.07,Fail,4.11,Express,Route A,159.06
+Clothing,Sxn-79640,88.54,4,187,16556.98,Adults,25,27,8,4,DHL,5.65,Supplier C,Hamburg,9,477,27,49.1,Fail,3.18,Air,Route C,127.51
+Electronics,RxI-77351,96.25,61,610,58712.5,Seniors,44,6,34,2,UPS,2.22,Supplier A,Hamburg,28,685,25,96.67,Pass,3.24,Sea,Route B,686.43
+Clothing,hDf-50643,5.85,17,672,3931.2,Adults,76,26,2,4,UPS,6.87,Supplier C,Munich,14,485,28,38.13,Fail,1.1,Road,Route C,568.57
+Electronics,piY-39005,53.59,85,999,53536.41,Seniors,71,21,77,10,UPS,4.39,Supplier A,Cologne,3,444,9,65.86,Fail,1.31,Road,Route A,234.94
+Clothing,Lno-93183,43.39,41,707,30676.73,Adults,92,1,84,8,UPS,4.08,Supplier D,Cologne,13,854,2,60.39,Pending,4.08,Road,Route C,742.03
+Furniture,jiI-52904,91.12,86,377,34352.24,Seniors,21,27,85,9,FedEx,4.35,Supplier D,Hamburg,24,364,24,81.79,Pass,4.74,Road,Route C,180.37
+Furniture,awY-42102,44.94,43,390,17526.6,Seniors,74,10,60,2,TNT,2.43,Supplier E,Frankfurt,20,172,16,89.5,Pending,0.61,Rail,Route C,368.52
+Electronics,qdi-39502,99.27,44,429,42586.83,Unknown,18,11,92,3,DHL,5.9,Supplier B,Munich,21,159,1,47.95,Pass,3.81,Sea,Route C,788.04
+Electronics,CXx-68117,17.29,56,658,11376.82,Unknown,51,14,62,7,DHL,2.3,Supplier B,Munich,1,429,25,84.16,Pass,0.1,Air,Route C,760.24
+Furniture,oNc-89178,17.25,50,525,9056.25,Seniors,21,3,6,5,UPS,5.65,Supplier E,Frankfurt,17,445,14,89.36,Pass,1.72,Rail,Route B,775.1
+Furniture,EzB-84700,6.82,29,754,5142.28,,27,24,3,10,FedEx,2.99,Supplier A,Cologne,29,755,9,78.27,Pending,0.25,Air,Route C,197.3
+Electronics,uMj-17711,44.59,49,136,6064.24,Seniors,60,23,20,4,DHL,4.41,Supplier A,Frankfurt,9,737,20,71.57,Fail,4.15,Air,Route C,746.89
+Electronics,JTu-12499,52.29,78,214,11190.06,Seniors,66,7,46,7,UPS,3.28,Supplier E,Cologne,30,312,23,93.65,Fail,1.18,Air,Route C,180.1
+Furniture,GMB-69847,19.17,12,808,15489.36,Young Adults,92,24,13,5,FedEx,5.65,Supplier C,Munich,15,151,4,82.25,Pass,4.26,Road,Route C,381.44
+Electronics,CoA-11836,5.92,18,689,4078.88,Adults,42,12,57,10,UPS,9.03,Supplier A,Munich,27,450,6,15.81,Fail,4.81,Road,Route B,720.91
+Electronics,uBu-57661,15.74,90,753,11852.22,Young Adults,20,4,54,10,TNT,8.42,Supplier D,Hamburg,20,488,25,39.07,Pass,4.31,Sea,Route B,928.36
+Electronics,fff-45271,11.02,84,331,3647.62,Young Adults,90,28,87,9,FedEx,9.82,Supplier C,Frankfurt,17,804,23,63.73,Fail,3.31,Sea,Route B,411.17
+Clothing,dLJ-61528,89.75,79,65,5833.75,Young Adults,82,30,21,9,TNT,8.81,Supplier B,Berlin,25,603,11,27.88,Fail,0.26,Sea,Route C,678.99
+Furniture,QWB-85165,47.2,74,468,22089.6,Young Adults,63,15,41,2,TNT,7.96,Supplier A,Berlin,13,522,2,57.93,Pass,4.13,Express,Route C,673.78
+Clothing,gKG-04945,68.79,44,382,26277.78,,28,28,59,6,TNT,7.73,Supplier C,Cologne,4,199,25,67.6,Pass,1.71,Road,Route C,569.79
+Electronics,wJx-32731,51.78,92,770,39870.6,Unknown,13,9,79,4,FedEx,2.97,Supplier D,Hamburg,15,944,26,23.1,Fail,0.55,Rail,Route A,933.96
+Furniture,JXN-14936,48.45,76,989,47917.05,Adults,63,1,68,1,TNT,8.71,Supplier D,Frankfurt,25,281,23,59.96,Pending,4.08,Air,Route B,691.77
+Furniture,blr-98094,44.77,78,947,42397.19,Adults,35,13,44,5,TNT,8.44,Supplier B,Cologne,20,816,29,76.1,Fail,4.22,Express,Route B,740.69
+Electronics,jKQ-45502,24.92,92,307,7650.44,,86,5,91,3,UPS,7.68,Supplier C,Frankfurt,16,696,19,94.55,Pending,2.09,Express,Route B,889.73
+Electronics,VHn-61201,7.4,19,64,473.6,Young Adults,25,9,97,3,UPS,7.47,Supplier B,Berlin,23,903,10,24.38,Pending,0.17,Rail,Route A,654.5
+Electronics,xtU-66752,75.53,72,408,30816.24,Adults,65,26,90,5,DHL,9.41,Supplier D,Cologne,26,801,11,96.75,Pass,0.07,Road,Route A,658.51
+Electronics,jkW-59910,91.59,91,736,67410.24,Seniors,96,19,70,10,FedEx,8.21,Supplier B,Munich,15,281,22,12.07,Pass,3.68,Air,Route B,136.57
+Electronics,QBF-90147,60.48,33,15,907.2,Seniors,59,23,20,1,FedEx,9.43,Supplier E,Berlin,25,740,20,85.1,Fail,2.46,Express,Route C,422.28
+Electronics,WGh-97643,95.91,67,79,7576.89,Adults,53,18,69,7,DHL,4.8,Supplier B,Munich,11,469,10,25.75,Pending,2.66,Express,Route C,107.92
+Clothing,FHQ-56149,63.3,80,259,16394.7,Young Adults,87,29,42,7,DHL,5.09,Supplier E,Munich,1,629,27,78.2,Pending,4.02,Rail,Route B,139.47
+Clothing,dan-40369,12.82,13,181,2320.42,Young Adults,80,3,27,4,TNT,,Supplier B,Frankfurt,27,819,29,97.74,Fail,3.24,Air,Route C,717.44
+Electronics,uha-43244,13.31,7,192,2555.52,Seniors,71,3,74,4,UPS,5.26,Supplier D,Cologne,14,423,1,42.0,Pass,2.68,Express,Route A,780.36
+Electronics,ITo-76226,38.98,65,118,4599.64,Seniors,100,22,39,10,DHL,4.25,Supplier D,Cologne,13,941,22,7.93,Pass,2.67,Sea,Route C,451.89
+Clothing,VcB-88516,18.69,87,918,17157.42,Seniors,1,18,72,3,DHL,2.33,Supplier E,Frankfurt,13,650,18,94.96,Fail,1.06,Road,Route A,471.39
+Electronics,BKz-07159,22.48,79,864,19422.72,Seniors,24,4,24,10,DHL,8.81,Supplier E,Cologne,21,662,3,32.61,Pass,1.26,Sea,Route C,622.54
+Clothing,ukZ-64160,67.27,13,301,20248.27,Young Adults,24,11,63,8,UPS,6.93,Supplier C,Frankfurt,5,679,19,39.63,Fail,4.79,Sea,Route A,381.89
+Clothing,gpB-97516,46.43,47,147,6825.21,Seniors,61,15,58,6,UPS,5.9,Supplier A,Hamburg,21,721,3,84.97,Pass,4.46,Sea,Route B,760.19
+Electronics,tVv-96816,85.71,81,41,3514.11,Unknown,98,19,28,1,UPS,6.35,Supplier E,Cologne,21,893,5,39.75,Pass,4.46,Express,Route C,871.45
+Electronics,OhH-35218,42.69,65,20,853.8,Adults,78,22,22,9,FedEx,5.57,Supplier B,Frankfurt,19,775,28,96.93,Pending,3.66,Road,Route A,296.94
+Furniture,pgj-83552,27.23,86,221,6017.83,Seniors,49,16,59,1,DHL,9.84,Supplier C,Berlin,23,633,21,83.82,Pending,1.32,Express,Route C,256.46
+Clothing,WWP-43292,90.33,10,539,48687.87,Seniors,48,30,29,9,TNT,4.82,Supplier C,Cologne,26,593,29,62.4,Pending,4.41,Rail,Route A,306.99
+Electronics,WLC-12779,22.76,47,626,14247.76,Young Adults,84,8,54,6,DHL,5.85,Supplier D,Cologne,7,704,6,66.49,Fail,0.12,Air,Route A,616.14
+Electronics,CeE-99552,89.63,19,67,6005.21,Adults,33,30,24,9,TNT,6.79,Supplier E,Berlin,29,836,24,67.87,Fail,4.74,Sea,Route B,645.87
+Electronics,wGe-74490,83.88,77,156,13085.28,Adults,79,22,66,5,FedEx,7.79,Supplier C,Cologne,20,704,3,26.83,Fail,0.67,Air,Route A,570.44
+Electronics,xse-47700,62.52,23,497,31072.44,Young Adults,100,18,65,2,DHL,,Supplier B,Frankfurt,18,947,1,90.21,Pending,3.25,Express,Route B,433.34
+Electronics,DLJ-19986,94.15,62,818,77014.7,Unknown,44,19,95,10,DHL,,Supplier C,Cologne,25,338,30,86.61,Fail,3.0,Express,Route B,332.02
+Electronics,MEG-07935,59.91,16,542,32471.22,Young Adults,48,21,27,6,TNT,4.9,Supplier B,Cologne,21,699,9,29.82,Pending,2.12,Road,Route C,348.0
+Furniture,TfG-20715,57.45,72,504,28954.8,Adults,47,18,72,8,UPS,9.91,Supplier E,Munich,25,822,13,74.9,Pending,0.6,Sea,Route B,804.8
+Clothing,HHN-20377,43.05,44,830,35731.5,Young Adults,20,13,82,1,DHL,8.59,Supplier D,Frankfurt,14,190,3,29.99,Fail,0.41,Air,Route C,445.89
+Clothing,AXv-25546,32.21,77,68,2190.28,Adults,81,16,57,1,FedEx,8.8,Supplier E,Munich,7,134,26,61.95,Pending,3.5,Express,Route A,706.62
+Electronics,gJR-90515,13.25,36,808,10706.0,Unknown,45,22,51,7,FedEx,6.14,Supplier A,Berlin,18,391,24,83.83,Pending,1.75,Road,Route A,645.73
+Clothing,vfL-64492,5.44,23,426,2317.44,Young Adults,71,3,65,5,UPS,9.58,Supplier E,Munich,29,650,27,80.37,Fail,3.47,Rail,Route C,535.27
+Furniture,MTf-25462,69.75,76,892,62217.0,Young Adults,61,4,34,2,TNT,7.07,Supplier B,Hamburg,26,423,14,95.77,Pending,2.68,Road,Route A,358.56
+Furniture,QSV-48652,12.22,23,497,6073.34,Seniors,45,7,74,5,FedEx,9.58,Supplier B,Cologne,24,304,8,74.87,Fail,1.04,Sea,Route A,852.7
+Electronics,bxt-81685,92.42,87,988,91310.96,Unknown,78,1,98,9,DHL,8.78,Supplier C,Frankfurt,11,604,29,98.61,Pending,4.35,Rail,Route A,985.96
+Electronics,oij-23573,76.27,17,65,4957.55,Unknown,61,18,5,9,UPS,5.15,Supplier B,Cologne,4,815,17,48.71,Pending,0.05,Sea,Route B,622.91
+Furniture,VHc-14188,22.78,34,252,5740.56,Seniors,60,20,44,6,FedEx,5.99,Supplier B,Cologne,23,870,12,39.68,Fail,1.41,Sea,Route C,218.03
+Electronics,jkl-59296,73.48,31,578,42471.44,Unknown,48,7,19,3,TNT,8.45,Supplier B,Cologne,16,237,29,85.69,Pending,2.67,Road,Route B,370.03
+Furniture,xRU-92706,14.4,21,71,1022.4,Adults,32,16,81,2,TNT,7.96,Supplier C,Munich,12,673,18,93.53,Fail,1.73,Rail,Route A,415.98
+Clothing,oIp-37947,59.71,84,561,33497.31,Adults,99,10,46,6,TNT,8.2,Supplier D,Berlin,13,728,10,49.06,Pass,4.34,Road,Route B,668.15
+Electronics,CDX-47359,12.52,44,243,3042.36,Seniors,40,21,38,5,TNT,4.17,Supplier D,Munich,24,701,17,96.72,Fail,0.84,Air,Route A,755.0
+Clothing,kmZ-46886,76.23,27,180,13721.4,Unknown,13,4,9,8,DHL,2.21,Supplier D,Frankfurt,25,185,4,29.93,Pass,0.43,Rail,Route B,306.42
+Electronics,xJg-92407,17.47,22,39,681.33,Young Adults,84,12,42,8,TNT,9.8,Supplier E,Munich,18,555,5,97.11,Pending,2.7,Express,Route C,510.89
+Furniture,rCG-81412,54.73,82,556,30429.88,Seniors,44,16,70,4,DHL,5.53,Supplier C,Cologne,9,259,10,6.0,Pending,4.08,Sea,Route B,358.09
+Furniture,wbA-26137,94.96,62,316,30007.36,Young Adults,98,14,38,10,FedEx,8.37,Supplier E,Munich,7,521,29,58.25,Fail,1.26,Rail,Route B,298.53
+Clothing,yfx-06853,77.63,79,836,64898.68,,36,21,96,9,UPS,,Supplier A,Hamburg,5,396,4,65.5,Pending,2.27,Express,Route B,269.01
+Clothing,Yji-30515,7.1,14,298,2115.8,Seniors,16,23,57,1,FedEx,2.72,Supplier A,Cologne,7,450,14,34.6,Fail,4.99,Rail,Route C,812.28
+Electronics,CNa-04727,10.32,100,411,4241.52,Young Adults,69,16,24,4,UPS,8.54,Supplier A,Berlin,25,831,8,41.56,Fail,1.24,Air,Route A,514.75
+Electronics,JUM-10432,49.92,88,994,49620.48,Seniors,41,6,81,1,DHL,4.03,Supplier C,Hamburg,12,153,28,68.34,Pass,1.19,Rail,Route B,113.56
+Furniture,thd-86143,79.97,2,53,4238.41,Unknown,88,20,20,6,DHL,3.99,Supplier D,Berlin,22,733,11,93.43,Pending,0.31,Road,Route C,238.53
+Furniture,hFM-36971,27.1,72,817,22140.7,Seniors,56,24,25,1,TNT,4.87,Supplier B,Munich,29,140,16,72.13,Pending,1.48,Rail,Route A,610.03
+Furniture,Tjs-80893,31.16,77,946,29477.36,Adults,8,17,20,8,UPS,8.56,Supplier E,Munich,15,100,25,65.61,Fail,3.67,Air,Route C,871.15
+Clothing,KAl-60953,11.02,69,848,9344.96,Unknown,24,17,88,8,FedEx,6.9,Supplier C,Cologne,21,429,4,14.14,Pending,0.34,Sea,Route A,886.14
+Electronics,IGY-18518,8.02,83,866,6945.32,Unknown,84,16,68,10,UPS,2.39,Supplier B,Frankfurt,23,172,1,93.37,Pass,3.28,Air,Route B,820.92
+Furniture,cOy-88067,83.09,91,69,5733.21,Seniors,67,2,94,2,UPS,2.62,Supplier B,Frankfurt,4,203,24,26.95,Fail,0.96,Express,Route C,323.89
+Clothing,wpU-54051,58.02,96,118,6846.36,Seniors,86,15,90,7,DHL,3.33,Supplier B,Frankfurt,13,616,11,67.47,Pending,4.99,Rail,Route B,912.24
+Furniture,wIv-19520,44.17,82,450,19876.5,Seniors,77,8,73,9,FedEx,5.0,Supplier E,Munich,12,563,15,96.18,Pass,3.63,Road,Route C,114.67
+Electronics,eTX-27722,33.53,29,229,7678.37,Seniors,2,25,89,5,FedEx,2.75,Supplier D,Munich,5,241,9,39.87,Pending,1.26,Road,Route B,182.71
+Clothing,Ymc-70430,12.33,42,821,10122.93,Unknown,22,16,89,10,DHL,6.76,Supplier C,Berlin,24,927,19,41.25,Pass,4.61,Road,Route B,891.81
+Electronics,Eqc-54868,87.63,30,775,67913.25,Young Adults,81,25,81,7,DHL,4.44,Supplier A,Munich,18,678,5,36.05,Pending,1.11,Air,Route C,758.42
+Clothing,rhZ-34505,59.65,12,237,14137.05,Unknown,37,26,51,3,FedEx,4.69,Supplier D,Frankfurt,24,150,18,42.92,Pass,2.0,Rail,Route C,217.34
+Furniture,vlF-56676,42.56,74,210,8937.6,Adults,31,3,35,7,UPS,7.48,Supplier E,Berlin,4,787,14,45.24,Fail,0.96,Road,Route C,689.87
+Furniture,UBf-75841,63.54,57,648,41173.92,Adults,56,2,30,4,UPS,3.25,Supplier A,Berlin,24,155,8,95.15,Pass,4.35,Road,Route A,408.94
+Furniture,ugf-69284,7.16,27,767,5491.72,Adults,26,18,67,5,TNT,6.98,Supplier B,Berlin,13,696,29,68.04,Pass,1.28,Air,Route B,280.63
+Furniture,TBk-54479,67.2,2,78,5241.6,Unknown,84,9,85,6,DHL,2.15,Supplier D,Hamburg,13,620,23,14.46,Fail,2.43,Express,Route C,179.22
+Clothing,NBr-75705,93.0,3,50,4650.0,Adults,67,10,43,8,TNT,7.96,Supplier A,Munich,22,460,12,64.4,Pass,4.98,Express,Route B,830.7
+Electronics,ZVR-01658,94.69,36,240,22725.6,Adults,43,29,51,3,DHL,7.84,Supplier E,Frankfurt,28,740,22,26.61,Pass,2.87,Rail,Route B,918.76
+Electronics,cie-20297,66.98,75,564,37776.72,Adults,17,10,89,9,FedEx,5.44,Supplier B,Frankfurt,30,261,11,11.44,Pending,4.74,Air,Route A,385.84
+Furniture,cMj-35569,88.61,53,994,88078.34,Unknown,38,15,96,5,FedEx,8.23,Supplier A,Hamburg,6,126,25,98.67,Pending,1.34,Express,Route C,307.82
+Furniture,KiH-75571,12.55,100,498,6249.9,Adults,64,28,78,8,UPS,3.47,Supplier D,Cologne,16,240,6,23.36,Pass,2.05,Air,Route B,955.18
+Electronics,hbV-56543,76.99,9,191,14705.09,Unknown,78,16,89,6,TNT,9.1,Supplier D,Cologne,25,142,20,74.86,Fail,3.6,Rail,Route C,945.23
+Clothing,hqX-27868,88.2,5,543,47892.6,Young Adults,57,15,6,4,TNT,9.87,Supplier A,Frankfurt,13,628,25,64.91,Pass,0.96,Rail,Route B,895.96
+Electronics,SFm-47394,45.13,79,951,42918.63,Young Adults,88,17,19,8,TNT,,Supplier E,Berlin,6,897,19,94.1,Pending,2.74,Rail,Route B,391.11
+Clothing,TCf-12172,90.1,59,102,9190.2,Seniors,41,23,84,3,DHL,,Supplier D,Munich,3,636,23,41.49,Pending,3.06,Sea,Route B,595.31
+Furniture,stk-55188,58.72,85,893,52436.96,Adults,20,28,19,3,DHL,,Supplier C,Cologne,10,741,6,16.17,Pass,4.8,Air,Route C,788.86
+Furniture,mYi-25831,56.63,1,632,35790.16,Unknown,30,7,76,8,TNT,5.28,Supplier A,Frankfurt,20,106,8,88.81,Fail,3.1,Express,Route A,144.03
+Electronics,KxD-37058,18.81,5,693,13035.33,Seniors,42,30,12,1,DHL,5.34,Supplier B,Hamburg,22,391,20,67.79,Pending,2.98,Express,Route A,969.66
+Electronics,tzT-82911,13.85,39,340,4709.0,Seniors,48,27,9,7,DHL,4.34,Supplier B,Berlin,23,980,9,36.27,Fail,2.63,Sea,Route C,152.37
+Clothing,eiu-78669,98.78,62,751,74183.78,,54,20,41,5,UPS,9.42,Supplier E,Frankfurt,16,632,24,65.03,Fail,4.04,Express,Route A,737.73
+Electronics,iXJ-17785,49.16,16,765,37607.4,Adults,78,14,53,1,UPS,,Supplier B,Berlin,21,306,23,31.75,Pass,1.55,Express,Route C,391.53
+Furniture,dhH-92268,42.62,73,640,27276.8,Young Adults,22,7,43,6,TNT,9.33,Supplier A,Hamburg,16,259,21,48.76,Pending,4.48,Rail,Route B,935.01
+Clothing,Tow-24225,73.87,41,578,42696.86,Young Adults,26,19,88,6,UPS,2.53,Supplier B,Munich,27,131,11,98.44,Pending,2.68,Sea,Route C,645.12
+Furniture,OJr-84143,72.0,41,736,52992.0,Young Adults,34,14,12,8,FedEx,4.97,Supplier C,Hamburg,17,409,6,15.66,Pass,3.89,Air,Route B,555.4
+Electronics,GPk-24981,23.07,62,760,17533.2,Seniors,99,11,19,2,FedEx,3.64,Supplier A,Cologne,13,830,28,54.62,Pass,1.56,Air,Route C,863.31
+Electronics,UMv-99229,14.79,99,684,10116.36,Seniors,2,19,98,5,FedEx,,Supplier B,Munich,9,645,11,78.41,Pending,0.6,Sea,Route A,346.27
+Clothing,PXK-90010,14.73,70,368,5420.64,Seniors,34,5,91,5,FedEx,3.37,Supplier C,Frankfurt,29,446,18,47.15,Pass,0.15,Air,Route A,445.24
+Clothing,ObF-43969,61.63,76,654,40306.02,Unknown,78,12,40,6,FedEx,7.7,Supplier E,Berlin,30,873,25,49.24,Pass,0.47,Rail,Route A,510.03
+Furniture,ZZR-84473,49.7,29,157,7802.9,Seniors,46,13,24,6,UPS,5.63,Supplier A,Berlin,16,215,12,50.47,Pass,1.42,Road,Route C,617.21
+Clothing,kCA-64710,80.69,42,579,46719.51,Young Adults,38,18,60,7,TNT,3.91,Supplier B,Frankfurt,6,593,13,11.28,Pass,4.07,Express,Route B,805.88
+Clothing,juT-77359,70.94,23,688,48806.72,Young Adults,94,30,92,10,TNT,2.91,Supplier E,Cologne,11,668,4,83.09,Pass,1.55,Rail,Route A,638.43
+Furniture,GJg-55625,36.1,83,686,24764.6,Young Adults,11,7,18,10,DHL,8.06,Supplier B,Cologne,18,398,13,63.48,Fail,0.99,Road,Route B,613.25
+Furniture,Cpj-53714,73.19,45,101,7392.19,Young Adults,78,17,52,3,UPS,2.5,Supplier E,Berlin,1,820,18,82.97,Fail,0.56,Road,Route A,311.72
+Furniture,Apk-10469,72.62,52,400,29048.0,Unknown,69,7,85,3,TNT,3.11,Supplier E,Cologne,27,468,27,44.64,Fail,4.99,Sea,Route A,110.44
+Furniture,FGD-59532,67.5,18,96,6480.0,Adults,82,26,54,8,TNT,6.99,Supplier D,Frankfurt,14,665,27,47.75,Fail,1.14,Rail,Route C,106.69
+Clothing,zGD-74701,52.66,53,958,50448.28,Seniors,4,2,73,8,UPS,2.91,Supplier D,Berlin,5,847,24,55.01,Fail,2.33,Air,Route C,900.92
+Clothing,dsF-33950,68.06,86,89,6057.34,Seniors,78,2,44,9,DHL,5.75,Supplier E,Cologne,19,851,11,45.0,Fail,1.45,Air,Route C,930.58
+Clothing,gBi-97480,29.74,81,494,14691.56,Adults,73,2,85,5,DHL,,Supplier A,Hamburg,17,178,28,79.46,Fail,0.67,Road,Route B,872.07
+Electronics,zdK-45650,91.46,95,164,14999.44,Unknown,47,26,23,5,FedEx,5.88,Supplier E,Berlin,11,186,5,61.58,Pass,4.19,Rail,Route B,314.15
+Electronics,eyG-83584,59.89,45,65,3892.85,Seniors,96,27,15,1,FedEx,5.71,Supplier D,Munich,16,864,25,92.63,Pass,1.91,Rail,Route B,336.36
+Furniture,hig-78499,93.09,58,401,37329.09,Seniors,67,22,6,2,UPS,9.65,Supplier D,Frankfurt,30,767,28,30.9,Fail,1.34,Air,Route B,688.91
+Clothing,Wjm-65585,27.97,87,612,17117.64,,66,11,87,3,UPS,6.38,Supplier A,Berlin,1,521,4,54.9,Pending,2.24,Sea,Route C,354.97
+Electronics,cci-98680,10.4,77,682,7092.8,Adults,76,21,16,2,DHL,8.85,Supplier B,Cologne,22,882,29,66.55,Pass,4.48,Sea,Route B,365.11
+Furniture,MGi-57872,92.66,36,797,73850.02,Unknown,88,29,86,6,UPS,3.3,Supplier A,Munich,25,163,13,41.92,Pass,1.3,Road,Route A,496.52
+Clothing,NVt-59526,42.3,83,513,21699.9,Young Adults,18,18,99,7,FedEx,6.91,Supplier A,Cologne,23,365,4,8.31,Pass,2.86,Road,Route B,116.89
+Electronics,FTK-95888,93.62,86,409,38290.58,Seniors,19,23,43,7,DHL,6.12,Supplier D,Cologne,14,513,28,74.14,Pass,2.71,Air,Route B,958.74
+Clothing,RhA-47055,55.85,46,351,19603.35,Seniors,51,2,81,2,UPS,6.28,Supplier C,Berlin,27,570,25,77.82,Pending,1.02,Express,Route A,970.76
+Furniture,qPY-94097,90.16,81,715,64464.4,Seniors,62,3,81,8,FedEx,3.12,Supplier B,Berlin,24,707,8,51.48,Pass,3.97,Road,Route B,580.55
+Electronics,EkH-99309,8.52,8,355,3024.6,Young Adults,51,4,28,9,TNT,9.52,Supplier E,Hamburg,24,693,8,92.86,Pass,3.68,Rail,Route C,117.16
+Electronics,KSh-96230,71.62,17,24,1718.88,Adults,80,2,40,2,TNT,6.89,Supplier E,Berlin,27,937,4,15.85,Pending,4.0,Sea,Route A,824.01
+Clothing,jAS-30756,69.45,42,133,9236.85,Adults,41,27,28,1,FedEx,,Supplier A,Munich,5,875,14,20.96,Fail,2.77,Rail,Route A,933.11
+Clothing,VUd-36897,63.18,100,171,10803.78,Young Adults,62,3,1,1,FedEx,9.41,Supplier E,Munich,14,810,26,80.26,Fail,3.46,Sea,Route A,675.84
+Electronics,QEH-28385,63.0,5,620,39060.0,Adults,91,16,79,2,UPS,4.78,Supplier A,Frankfurt,8,296,4,98.73,Pass,3.1,Express,Route C,297.35
