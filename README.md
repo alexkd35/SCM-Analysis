@@ -63,6 +63,14 @@ It includes real-world-inspired data cleaning, KPI calculation, visual explorati
 - Can we predict shipping costs using basic order features?
 - Are there product segments with shared supply chain patterns?
 
+## Dataset
+
+- Based on a supply chain dataset with 100+ original records  
+- Augmented to 400+ realistic records using synthetic data generation
+- Additional data was created via ChatGPT with matching structure and value distributions to extend the dataset while preserving realistic patterns
+- This was necessary because the original dataset was too small to support reliable modeling and segmentation
+- All cleaning steps, missing value patterns, and data inconsistencies were preserved in the extended data to maintain consistency
+
 ## Tech Stack
 
 - Python (Jupyter Notebooks)
