@@ -12,8 +12,8 @@ It includes real-world-inspired data cleaning, KPI calculation, visual explorati
 | `03_eda_visualization.ipynb`            | Visual EDA: analyzing cost, availability, transport, sales, and more       |
 | `04_predictive_modeling.ipynb`          | Linear Regression model to predict shipping costs based on product & order data |
 | `05_scm_specific_kpis.ipynb`            | Key SCM metrics like EOQ, Inventory Turnover, Lead Time analysis           |
-| `06_clustering_product_profiles.ipynb`  | KMeans clustering to group products by behavior (order, lead time, cost)   |
-| `07_summary_conclusions.ipynb` *(opt.)* | Summary of insights and business recommendations                           |
+| `06_clustering_product.ipynb` *(open.)* | KMeans clustering to group products by behavior (order, lead time, cost)   |
+| `07_summary_conclusions.ipynb`*(open.)* | Summary of insights and business recommendations                           |
 
 ## Dataset
 
